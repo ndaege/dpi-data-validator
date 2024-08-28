@@ -1,0 +1,11 @@
+{
+  "name": "dpi-rent-steps-validator",
+  "dependencies": {
+    "@flatfile/api": "1.8.9",
+    "@flatfile/listener": "1.0.1",
+    "@flatfile/plugin-autocast": "1.0.0",
+    "@flatfile/plugin-export-workbook": "^0.1.9",
+    "@flatfile/plugin-job-handler": "^0.5.4",
+    "@flatfile/plugin-record-hook": "1.6.0"
+  }
+}

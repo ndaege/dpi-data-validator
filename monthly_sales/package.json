@@ -1,0 +1,10 @@
+{
+  "name": "dpi-monthly-sales-validator",
+  "dependencies": {
+    "@flatfile/api": "1.8.9",
+    "@flatfile/plugin-record-hook": "1.6.0",
+    "@flatfile/plugin-export-workbook": "0.1.9",
+    "@flatfile/listener": "1.0.1",
+    "@flatfile/plugin-autocast": "1.0.0"
+  }
+}
